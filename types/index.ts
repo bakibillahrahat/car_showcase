@@ -11,3 +11,7 @@ export interface SearchMenufacturerProps {
     manufacturer: string,
     setMenufacturer: (manufacturer: string) => void;
 }
+
+export interface SearchManuFacturerProps {
+    
+}
